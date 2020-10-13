@@ -2,7 +2,7 @@
 
 Hi there 👋, I'm **Francisco Nicomedes**
 
-Apaixonado por tecnologia, estudante de desenvolvimento Front-end e sempre em busca de desafios.
+Passionate about technology, front-end development student and always looking for new challenges.
 
 🌱 I’m currently learning Nodejs, Reactjs e React Native
 
