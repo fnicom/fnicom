@@ -10,4 +10,6 @@ Passionate about technology, front-end development student and always looking fo
 
 📫 How to reach me: **fnicomedes@gmail.com**
 
+react css3 html5 javascript nodejs
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnicom&layout=compact)](https://github.com/fnicom/github-readme-stats)
